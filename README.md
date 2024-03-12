@@ -54,7 +54,7 @@ Built From:
 
 #### [Repo](https://github.com/8BitGinger/tictactoe)
 
-#### [Deployed]()
+#### [Deployed](https://tictactypscript-5cd5d0597c27.herokuapp.com/)
 
 ---
 
