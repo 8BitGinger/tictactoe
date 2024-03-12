@@ -42,11 +42,17 @@ _The result?_ A fun and functional game that solidified my understanding of Type
 
 ![screenshot](./assets/tictactoe-screenshot.png)
 
+![screenshot-win](./assets/tictactoe-screenshot-winner.png)
+
 ## Credits
 
-Built From:
+Reference Video:
 
 ##### [TomDoesTech](https://www.youtube.com/watch?v=7iw8j20h4pc&list=PL41PQx5PPbt6OheJQkg-QNROfx9j75MuR&index=8)
+
+Wallpaper Credit:
+
+##### [Unsplash](https://media.istockphoto.com/id/1515270520/photo/wooden-tic-tac-toe-game.jpg?s=2048x2048&w=is&k=20&c=gQCijlgJqbY-90frYIQH1XGcWs5RkserKQQ92XIRnSM=)
 
 ---
 
