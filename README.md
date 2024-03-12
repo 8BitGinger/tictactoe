@@ -40,7 +40,7 @@ _The result?_ A fun and functional game that solidified my understanding of Type
 
 ## Screenshots
 
-![screenshot](./assets/Placeholder%20Image.png)
+![screenshot](./assets/tictactoe-screenshot.png)
 
 ## Credits
 
