@@ -1,8 +1,11 @@
-<div align="center">
+<a id="badges"></a>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Tic Tac Typescript
 
-![screenshot](./assets/typescript-logo-small.png)
+<div align="center">
+
+![screenshot](./assets/ticTacTypescriptProject.jpg)
 
 </div>
 
