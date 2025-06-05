@@ -25,7 +25,7 @@ function calculateWinner(squares: Player[]) {
 function Board() {
   const [squares, setSquares] = useState(Array(9).fill(null));
   const [currentPlayer, setCurrentPlayer] = useState<'X' | 'O'>(
-    Math.round(Math.random() * 1) === 1 ? 'X' : 'O'
+     'X'
   );
   const [winner, setWinner] = useState<Player>(null);
 
